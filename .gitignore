@@ -1,0 +1,3 @@
+node_modules/
+.certora_internal/
+.env

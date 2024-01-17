@@ -1,0 +1,3 @@
+Solana addresses are public keys on the Ed25519 curve.
+
+Run via npx esrun generate-keypair.ts
